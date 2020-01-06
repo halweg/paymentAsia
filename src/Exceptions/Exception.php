@@ -1,6 +1,6 @@
 <?php
 
-namespace Halweg\SzPaymentGateway\Exceptions;
+namespace Halweg\PaymentAsia\Exceptions;
 
 class Exception extends \Exception
 {

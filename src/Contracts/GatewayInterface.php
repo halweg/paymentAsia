@@ -1,6 +1,6 @@
 <?php
 
-namespace Halweg\SzPaymentGateway\Contracts;
+namespace Halweg\PaymentAsia\Contracts;
 
 interface GatewayInterface
 {

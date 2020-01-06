@@ -1,5 +1,5 @@
 {
-  "name": "halweg\/sz-payment-gateway",
+  "name": "halweg\/payment-asia",
   "description": "payment sdk for sz",
   "license": "MIT",
   "authors": [
@@ -10,7 +10,7 @@
   ],
   "autoload": {
     "psr-4": {
-      "Halweg\\SzPaymentGateway\\": "src"
+      "Halweg\\paymentAsia\\": "src"
     }
   },
   "require": {

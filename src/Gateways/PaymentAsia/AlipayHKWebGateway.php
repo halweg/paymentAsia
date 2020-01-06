@@ -1,5 +1,5 @@
 <?php
-namespace Halweg\SzPaymentGateway\Gateways\PaymentAsia;
+namespace Halweg\PaymentAsia\Gateways\PaymentAsia;
 
 class AlipayHKWebGateway extends PaymentAsia
 {

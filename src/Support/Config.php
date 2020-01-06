@@ -1,8 +1,8 @@
 <?php
-namespace Halweg\SzPaymentGateway\Support;
+namespace Halweg\PaymentAsia\Support;
 
 use ArrayAccess;
-use Halweg\SzPaymentGateway\Exceptions\InvalidArgumentException;
+use Halweg\PaymentAsia\Exceptions\InvalidArgumentException;
 
 class Config implements ArrayAccess
 {
